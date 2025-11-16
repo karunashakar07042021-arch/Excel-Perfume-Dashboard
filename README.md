@@ -20,6 +20,7 @@ Making proper formatting the Categorial Column  into right format.
     5.Notable Outliers or Surprise.
 
 # Conclusion:
+Once the dataset  is completely ready we can make an interactive dashboards to find out the **KPI** and **METERICS** by using the pivot table and createing charts once you ready with charts organise with complete **Perfume Dashboard**.
       
     
 
