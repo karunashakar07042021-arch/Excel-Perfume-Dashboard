@@ -1,4 +1,5 @@
-# Perfume Dashboard
+ with charts organise with complete **Perfume Dashboard**.
+      # Perfume Dashboard
 Excel Dashboard On Perfume Dataset
 # Project Overview
 This a dataset of Perfume based Comppany based  on that we need to analysis and find trends partten to present Dashboard.
@@ -18,10 +19,13 @@ Making proper formatting the Categorial Column  into right format.
     3.Trends Over Time.
     4.Visualizations.
     5.Notable Outliers or Surprise.
+# 🛠️ Tools & Techniques
+    1.Excel PivotTables
+    2.Conditional Formatting
+    3.Forecasting with Trendlines
 
 # Conclusion:
-Once the dataset  is completely ready we can make an interactive dashboards to find out the **KPI** and **METERICS** by using the pivot table and createing charts once you ready with charts organise with complete **Perfume Dashboard**.
-      
+Once the dataset  is completely ready we can make an interactive dashboards to find out the **KPI** and **METERICS** by using the pivot table and createing charts once you ready
     
 
 
